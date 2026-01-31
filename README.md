@@ -1,7 +1,7 @@
 # Sign Up Form
 Sign up form project to practice HTML form validation. This project was done as part of The Odin Project's Intermediate HTML & CSS curriculum.
 
-Live Preview: 
+Live Preview: https://ninavsworld.github.io/sign-up-form/
 
 ![Image of sign-up-form](images/sign-up-form.png)
 
