@@ -3,7 +3,7 @@ Sign up form project to practice HTML form validation. This project was done as 
 
 Live Preview: 
 
-![Image of game page]
+![Image of sign-up-form](images/sign-up-form.png)
 
 ## How It's Made
 **Tech used:** HTML & CSS
