@@ -67,7 +67,7 @@ a {
     background-color: #F9FAFB;
     display: flex;
     flex-direction: column;
-    /*justify-content: center;*/
+    justify-content: center;
     flex-grow: 1;
 }
 
@@ -161,4 +161,14 @@ button {
 .button {
     padding-left: 50px;
     padding-top: 30px;
+}
+
+.existing-acc {
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+.log-in {
+    color: #596D48;
+    font-weight: 600;
 }
